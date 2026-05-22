@@ -39,3 +39,7 @@ The objective of this platform is to build a centralized, cloud-ready analytics 
 2. **Decision Latency Optimization:** Decreased executive decision latency by 30% through targeted dashboard alert triggers.
 3. **Financial Protection:** Established data safeguards to isolate overspending and support corporate cost-reduction goals by 15%.
 * Added missing readme file*
+Docs: Add BPMN data ingestion flowchart for BR001
+Feat: Add MySQL DDL script for Star Schema tables
+Feat: Add automated Python ETL script with BR001 validation logic
+Analytics: Add advanced audit SQL queries and regression model

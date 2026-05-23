@@ -43,3 +43,4 @@ Docs: Add BPMN data ingestion flowchart for BR001
 Feat: Add MySQL DDL script for Star Schema tables
 Feat: Add automated Python ETL script with BR001 validation logic
 Analytics: Add advanced audit SQL queries and regression model
+Feat: Add Interactive Power BI operational dashboard workbook 
